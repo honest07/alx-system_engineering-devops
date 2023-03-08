@@ -5,3 +5,4 @@ script that display current directory contents in a long format
 script that display current directory contents in a long format
 script that display current directory contents, including hidden files (starting with .)
 scrip that display current directory contents in long format, with user IDs diplayed numerically, and hidden files(starting with .)
+script that creates a directory named my_first_directory in the /tmp/
