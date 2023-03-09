@@ -8,3 +8,4 @@ scrip that display current directory contents in long format, with user IDs dipl
 script that creates a directory named my_first_directory in the /tmp/
 script moving a file betty from /tmp/ to /tmp/my_first_directory
 script deleting the file betty
+script deleting the directory my_first_directory that is in the /tmp directory
