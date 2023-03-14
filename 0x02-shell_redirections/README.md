@@ -4,3 +4,4 @@ script that prints /etc/passwd file.
 script that displays the last 10 lines of /etc/passwd.
 script that displays the first 10 lines.
 script that displays the third line of a file
+script that creates a file named and containing a text.
