@@ -15,3 +15,4 @@ script that takes a list of words as input and prints only words that appear exa
 script that display lines that contain the pattern “root” from the file /etc/passwd
 script display the number of lines that contain the pattern “bin” in the file /etc/passwd
 script that display lines containing the pattern “root” and 3 lines after them in the file /etc
+script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
